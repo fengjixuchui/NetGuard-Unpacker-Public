@@ -25,7 +25,7 @@ namespace NetGuard_Deobfuscator_2
         };
         static void Main(string[] args)
         {
-            Path = Console.ReadLine();
+            Path = Console.ReadLine().Replace('"',' ');
             LoadModule(Path);
             foreach (Protections.Base @Base in modules)
             {
