@@ -34,7 +34,7 @@
   <ItemGroup>
     <Reference Include="SharpDisasm, Version=1.1.5.0, Culture=neutral, PublicKeyToken=71afd155bcebae3e, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Workspace\Secured\SharpDisasm-1.1.5\Bin\Net35\SharpDisasm.dll</HintPath>
+      <HintPath>..\..\..\..\NetGuard-Unpacker-Public\SharpDisasm.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
