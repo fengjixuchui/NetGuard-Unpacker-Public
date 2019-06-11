@@ -15,3 +15,4 @@ C:\Users\owner\Documents\GitHub\NetGuard-Unpacker-Public2\unicorn-net\src\Unicor
 C:\Users\owner\Documents\GitHub\NetGuard-Unpacker-Public2\unicorn-net\src\Unicorn.Net\obj\Debug\netstandard1.1\Unicorn.Net.AssemblyInfo.cs
 C:\Users\owner\Documents\GitHub\NetGuard-Unpacker-Public2\unicorn-net\src\Unicorn.Net\obj\Debug\netstandard1.1\Unicorn.Net.dll
 C:\Users\owner\Documents\GitHub\NetGuard-Unpacker-Public2\unicorn-net\src\Unicorn.Net\obj\Debug\netstandard1.1\Unicorn.Net.pdb
+C:\Users\owner\Documents\GitHub\NetGuard-Unpacker-Public2\unicorn-net\src\Unicorn.Net\obj\Debug\netstandard1.1\Unicorn.Net.csprojAssemblyReference.cache
