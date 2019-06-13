@@ -1,5 +1,9 @@
 # NetGuard-Unpacker-Public
-Public NetGuard Deobfuscator
+
+
+# Make sure to visit RTN 
+
+# https://www.rtn-team.cc/board/index.php
 
 So this is my netguard unpacker thats now public.
 Enjoy it while it lasts
